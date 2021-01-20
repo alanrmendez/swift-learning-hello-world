@@ -13,6 +13,7 @@
 		6032596825A83BD90070A75F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6032596625A83BD90070A75F /* Main.storyboard */; };
 		6032596A25A83BDF0070A75F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6032596925A83BDF0070A75F /* Assets.xcassets */; };
 		6032596D25A83BDF0070A75F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6032596B25A83BDF0070A75F /* LaunchScreen.storyboard */; };
+		60C28E2025B7DE37004EEEEB /* 1280px-Aurora_australis_panorama.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 60C28E1F25B7DE37004EEEEB /* 1280px-Aurora_australis_panorama.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		6032596925A83BDF0070A75F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6032596C25A83BDF0070A75F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6032596E25A83BDF0070A75F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		60C28E1F25B7DE37004EEEEB /* 1280px-Aurora_australis_panorama.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1280px-Aurora_australis_panorama.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				6032596225A83BD90070A75F /* SceneDelegate.swift */,
 				6032596425A83BD90070A75F /* ViewController.swift */,
 				6032596625A83BD90070A75F /* Main.storyboard */,
+				60C28E1F25B7DE37004EEEEB /* 1280px-Aurora_australis_panorama.jpg */,
 				6032596925A83BDF0070A75F /* Assets.xcassets */,
 				6032596B25A83BDF0070A75F /* LaunchScreen.storyboard */,
 				6032596E25A83BDF0070A75F /* Info.plist */,
@@ -126,6 +129,7 @@
 			files = (
 				6032596D25A83BDF0070A75F /* LaunchScreen.storyboard in Resources */,
 				6032596A25A83BDF0070A75F /* Assets.xcassets in Resources */,
+				60C28E2025B7DE37004EEEEB /* 1280px-Aurora_australis_panorama.jpg in Resources */,
 				6032596825A83BD90070A75F /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
